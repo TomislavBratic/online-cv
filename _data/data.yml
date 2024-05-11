@@ -54,13 +54,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Employee at Ericcson Nikola Tesla, Zagreb. Received the title of bacc. ing. comp. at the Faculty of Electrical Engineering,
-     Mechanical Engineering and Naval Architecture(FESB) in 2020 in Split,
-     defending his dissertation entitled "Detection of the uneven ground using deep
-     neural networks". Received the title ob mag. ing at University Department of Professional Studies, Split.
-     Defended dissertation entitled "IoT system for A/V streaming and sensor monitoring of hive activity".
-     Was working as a student helper for a year,worked as a student for a year, where the job description was:
-     software testing, troubleshooting, writing Java code, understanding of CI/CD process, 
+     Employee at Ericcson Nikola Tesla, Zagreb.Proficient in software testing methodologies, troubleshooting complex issues,
+    and writing efficient Java test code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes,
+     and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence 
+     for efficient documentation and Linux environments for development and deployment.
 education:
     title: Education
     info:
@@ -69,22 +66,18 @@ education:
 
         time: 2021 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+         Received the title of bacc. ing. comp. at the Faculty of Electrical Engineering,
+     Mechanical Engineering and Naval Architecture(FESB) in 2020 in Split,
+     defending his dissertation entitled "Detection of the uneven ground using deep
+     neural networks".
+            - https://github.com/TomislavBratic/Final-thesis/tree/main/FinalThesis
             - Bullet point
       - degree: bacc. ing. comp. in Computer Science
-        university: Bristol University
+        university: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB)
         time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Received the title of mag. ing at University Department of Professional Studies, Split.
+     Defended dissertation entitled "IoT system for A/V streaming and sensor monitoring of hive activity".
             - Bullet point
             - Bullet point
 
