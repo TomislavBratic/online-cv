@@ -54,10 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Employee at Ericcson Nikola Tesla, Zagreb.Proficient in software testing methodologies, troubleshooting complex issues,
-    and writing efficient Java test code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes,
-     and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence 
-     for efficient documentation and Linux environments for development and deployment.
+     Employee at Ericcson Nikola Tesla, Zagreb.Proficient in software testing methodologies,troubleshooting complex issues, and writing efficient Java test code. Equipped witha comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes,and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment.
 education:
     title: Education
     info:
