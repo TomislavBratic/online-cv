@@ -63,26 +63,28 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: mag. ing. in Computer Science
-        university: University Department of Professional Studies
-
-        time: 2021 - 2023
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
-         Received the title of bacc. ing. comp. at the Faculty of Electrical Engineering,
-     Mechanical Engineering and Naval Architecture(FESB) in 2020 in Split,
-     defending his dissertation entitled "Detection of the uneven ground using deep
-     neural networks".
-            - https://github.com/TomislavBratic/Final-thesis/tree/main/FinalThesis
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
             - Bullet point
-      - degree: bacc. ing. comp. in Computer Science
-        university: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB)
-        time: 2018 - 2021
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
-          Received the title of mag. ing at University Department of Professional Studies, Split.
-     Defended dissertation entitled "IoT system for A/V streaming and sensor monitoring of hive activity".
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
             - Bullet point
             - Bullet point
-
 experiences:
     title: Experiences
     info:
