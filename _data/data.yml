@@ -83,10 +83,11 @@ experiences:
         time: 2023 - Present
         company: Ericsson Nikola Tesla, Zagreb
         details: |
-          Understanding Radio Access Network (RAN) concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using Jenkins to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using Java test code for verifying radio software through different stages of confidence levels. Successfully implementing Java code in the Linux VDI environment,committing and following commit via Git. Writing configurations for different baseband and radio types, including their specific features and managing configuration capacities in .xml format. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management. Administered and managed Microsoft Teams, a collaboration platform, to facilitate real-time communication, collaboration and teamwork among employees.
+          Understanding Radio Access Network (RAN) concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using Jenkins to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using Java test code for verifying radio software through different stages of confidence levels. Successfully implementing Java code in the Linux VDI environment,committing and following commit via Git. Collaborated with cross-functional teams through Jira, for implementing new featuers on radio platforms or keeping up with feature impacts. Writing configurations for different baseband and radio types, including their specific features and managing configuration capacities in .xml format. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management. Administered and managed Microsoft Teams, a collaboration platform, to facilitate real-time communication, collaboration and teamwork among employees.
             - Java
             - Linux
             - Jenkins
+            - Jira
             - Github
             - Confluence
             - MS Teams
@@ -94,10 +95,10 @@ experiences:
         time: 2022 - 2023
         company: Ericsson Nikola Tesla, Split
         details: |
-          Working on Stockholm Radio platform, writing configuration, understanding the 
+          Working on Stockholm Radio platform, writing configuration, understanding the link connection and link rate between baseband and radio hardware. Understanding the User Equipment concept for developing Java tests in that particular environment. Troubleshooting and writing Jira tickets for radio product. Collaborated closely with cross-functional teams to effectively troubleshoot and resolve product issues.
             - Java
             - Linux
-            - Jenkins
+            - Jira
             - Github
             - Confluence
             - Ms Teams
