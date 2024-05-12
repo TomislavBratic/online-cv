@@ -59,7 +59,7 @@ education:
     title: Education
     info:
       - degree: mag. ing. in Computer Science
-        university: 
+        university: University Department of Professional Studies
         time: 2021 - 2023
         details: |
          Apply modern methods and patterns in solving practical problems in the field of computing. Create a software solution for a complex problem by applying modern technologies, models and an agile approach to software development. Choose an appropriate engineering approach in the realization of set user requirements, starting from acquired knowledge in the field of computing. Analyze algorithmic approaches for solving optimization problems and decision problems. Use appropriate mathematical methods in modeling complex software solutions. Apply appropriate concepts and development frameworks in creating applications. Distinguish the peculiarities of individual computer technologies and environments. Evaluate software and test program code. Assess the place and role of IT in the company's operations, and analyze the functionality of the available business information systems. Develop software based on concepts of distributed technologies respecting the principles of security of software solutions.
@@ -147,17 +147,15 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: IoT system for A/V streaming and sensor monitoring of hive activity
         link: "https://github.com/TomislavBratic/BeeIoT/tree/main"
         tagline: "This project describes the entire process of creating an IOT system for A/V streaming and sensor monitoring of hive activity. It starts from the preparation and installation of the necessary hardware equipment, the automation and development of the necessary software environment for the microcontroller and the process of creating a web application for streaming and environment monitoring. The result provides a simple, efficient and fast installation of the necessary software on the microcontroller, and a precise and intuitive interface for user interaction."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Detection of pits in the ground using deep neural networks
+        link: "https://github.com/TomislavBratic/Final-thesis"
+        tagline: "In the final work, it was necessary to create an application that will detect possible pits in the ground based on the analysis of the image taken with a camera from a height of 50-150 cm. The work presented an overview of artificial neural networks and their possibilities. It was necessary to create a database of images with positive examples as well as negative examples. Matlab software package was used for the project to perform neural network learning process. The already developed convolutional networks, GoogleNet and SqueezeNet, were used to develop this project. 286 images of pits in the ground were collected for the database. The entire database is stored in a specific variable that will be divided into a part for training and for validation. Options before training were selected,such as Image Data Augmenter, Rand X/Y Reflection, SGDM and more. After finishing validation tests, networks were compared in accuracy, speed and consistency from given results."
 
       - title: Tempo
         link: "#"
