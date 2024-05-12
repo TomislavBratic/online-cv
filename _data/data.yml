@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Employee at Ericcson Nikola Tesla, Zagreb. Proficient in software testing methodologies,troubleshooting complex issues, and writing efficient Java test code. Equipped witha comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes,and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment.  In leisure time, actively engaged in learning ASP.NET and Angular to expand skill set and stay updated with emerging technologies.
+      Employee at Ericcson Nikola Tesla, Zagreb. Proficient in software testing methodologies,troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning ASP.NET and Angular to expand skill set and stay updated with emerging technologies.
 education:
     title: Education
     info:
@@ -68,7 +68,7 @@ education:
             - Mobile development (Android studio)
             - Graph Algorithms and AI (Python)
 
-      - degree: bacc. ing in Computer Science
+      - degree: bacc. ing. in Computer Science
         university: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB)
         time: 2018 - 2021
         details: |
@@ -80,31 +80,27 @@ experiences:
     title: Experiences
     info:
       - role: Software Developer
-        time: 2015 - Present
+        time: 2023 - Present
         company: Ericsson Nikola Tesla, Zagreb
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Understanding Radio Access Network (RAN) concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using Jenkins to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using Java test code for verifying radio software through different stages of confidence levels. Successfully implementing Java code in the Linux VDI environment,committing and following commit via Git. Writing configurations for different baseband and radio types, including their specific features and managing configuration capacities in .xml format. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management. Administered and managed Microsoft Teams, a collaboration platform, to facilitate real-time communication, collaboration and teamwork among employees.
+            - Java
+            - Linux
+            - Jenkins
+            - Github
+            - Confluence
+            - MS Teams
       - role: Student Helper
         time: 2022 - 2023
         company: Ericsson Nikola Tesla, Split
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Working on Stockholm Radio platform, writing configuration, understanding the 
+            - Java
+            - Linux
+            - Jenkins
+            - Github
+            - Confluence
+            - Ms Teams
 
 certifications:
       title: Certifications
