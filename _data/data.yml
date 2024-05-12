@@ -159,7 +159,7 @@ projects:
 
       - title: PaletaApp
         link: "https://github.com/TomislavBratic/PaletaApp"
-        tagline: "Bulding a social media application using Asp.net Core and Angular. Application offers registration an login of users, posting blogs and uploading pictures. Authentication basics,exception handling middleware, Entity Framework relationships, AutoMapper, Angular Material"
+        tagline: "Bulding a social media application using Asp.net Core and Angular. Application offers registration and user login, posting blogs and uploading pictures. Authentication basics, exception handling middleware, Entity Framework relationships, AutoMapper, Angular Material."
 
       - title: Python AI exercises
         link: "https://github.com/TomislavBratic/Python-AI"
