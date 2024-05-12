@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Employee at Ericcson Nikola Tesla, Zagreb. Proficient in software testing methodologies,troubleshooting complex issues, and writing efficient Java test code. Equipped witha comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes,and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment.
+      Employee at Ericcson Nikola Tesla, Zagreb. Proficient in software testing methodologies,troubleshooting complex issues, and writing efficient Java test code. Equipped witha comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes,and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment.  In leisure time, actively engaged in learning ASP.NET and Angular to expand skill set and stay updated with emerging technologies.
 education:
     title: Education
     info:
@@ -62,13 +62,19 @@ education:
         university: University of London
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Apply techniques, skills and advanced engineering tools necessary in engineering
+practice. Maintain computer systems and computer infrastructure. Apply technical knowledge and skills for effective engineering solutions
+problems independently and as part of a team. Apply acquired programming knowledge in different programming environments
+and on different target platforms for the realization of own applications. Prepare project documentation and technical reports using modern
+technologies. Participate in the work of multidisciplinary and international teams.Use literature, databases and other sources of information.
+19. Create a business plan with all necessary technological, economic and
+financial parameters. Make a public oral presentation, prepare a written report and present it
+project results in Croatian and English.
+            - Java
+            - C/C++
+            - Linux
+            - MS SQL
+            
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
