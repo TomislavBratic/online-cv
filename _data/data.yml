@@ -95,7 +95,7 @@ experiences:
         time: 2022 - 2023
         company: Ericsson Nikola Tesla, Split
         details: |
-          Working on Stockholm Radio platform, writing configuration, understanding the link connection and link rate between baseband and radio hardware. Understanding the User Equipment concept for developing Java tests in that particular environment. Troubleshooting and writing Jira tickets for radio product. Collaborated closely with cross-functional teams to effectively troubleshoot and resolve product issues.
+          Working on a Stockholm Radio platform, writing configuration, understanding the link connection and link rate between baseband and radio hardware. Understanding the User Equipment concept for developing Java tests in that particular environment. Troubleshooting and writing Jira tickets for radio product. Collaborated closely with cross-functional teams to effectively troubleshoot and resolve product issues.
             - Java
             - Linux
             - Jira
@@ -106,44 +106,35 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: LTE overview
+          start: 2023
+          end: 2023
+          organization: Ericsson
+          credentialid: LZU1087020
+          credentialurl: www.ericsson.hr
+          credentialname: LTE
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            fourth generation of mobile telecommunications technology. LTE offers faster data speeds, lower latency, and greater capacity compared to previous generations like 3G.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: 5G Overview
+          start: 2023
+          end: 2023
+          organization: Ericsson
+          credentialid: LZU1084181
+          credentialurl: www.ericsson.hr
+          credentialname: 5G
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+           5G, or fifth-generation wireless technology, represents the latest evolution in mobile telecommunications standards. It builds upon the foundation laid by previous generations like 4G LTE and aims to deliver faster speeds, lower latency, increased capacity, and support for a vast array of connected devices beyond smartphones and tablets.
 
+        - name: RAN architecture
+          start: 2023
+          end: 2023
+          organization: Ericsson
+          credentialid: LZU1084181
+          credentialurl: www.ericsson.hr
+          credentialname: 5G
+          details: |
+            RAN (Radio Access Network) architecture refers to the infrastructure that connects mobile devices to the core network and facilitates wireless communication. It encompasses the equipment and protocols responsible for transmitting and receiving radio signals between mobile devices (such as smartphones, tablets, and IoT devices) and the network infrastructure.
 projects:
     title: Projects
     intro: >
@@ -165,9 +156,9 @@ projects:
         link: "https://github.com/TomislavBratic/Python-AI"
         tagline: "Algorithms and data structures. Agents and environments. Algorithms for informed and uninformed search. Supported learning. Games for two players: minimax and MTCS algorithms. Machine learning. Linear models for regression and classification. First order logic and logical reasoning. Neural networks. A regression model for supported learning. Other forms of learning and application of machine learning for different domains."
 
-      - title: Martinin, nadopuniti
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Archive text analyzer
+        link: "https://github.com/TomislavBratic/ArchiveTextAnalyzer"
+        tagline: "Small phyton tool for analyzing positive and negative words (custom selection) and creating a graph of their frequencies through decades. Data is collected from archives around the Europe and processed through Spacey NLP. Pandas datasets and spacey matcher with regular expressions for finding word clusters and words under quotation marks."
 
 
 skills:
@@ -197,3 +188,6 @@ skills:
 
       - name: Ansible
         level: 60%
+
+      - name: React
+        level: 30%
