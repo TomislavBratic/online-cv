@@ -130,9 +130,9 @@ certifications:
           start: 2023
           end: 2023
           organization: Ericsson
-          credentialid: LZU1084181
+          credentialid: LZU1082505
           credentialurl: www.ericsson.hr
-          credentialname: 5G
+          credentialname: RAN
           details: |
             RAN (Radio Access Network) architecture refers to the infrastructure that connects mobile devices to the core network and facilitates wireless communication. It encompasses the equipment and protocols responsible for transmitting and receiving radio signals between mobile devices (such as smartphones, tablets, and IoT devices) and the network infrastructure.
 projects:
