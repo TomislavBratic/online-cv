@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Employee at Ericcson Nikola Tesla, Zagreb. Proficient in software testing methodologies,troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning ASP.NET and Angular to expand skill set and stay updated with emerging technologies.
+      Employee at Ericsson Nikola Tesla, Zagreb. Proficient in software testing methodologies, troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning ASP.NET and Angular to expand skill set and stay updated with emerging technologies.
 education:
     title: Education
     info:
@@ -83,7 +83,7 @@ experiences:
         time: 2023 - Present
         company: Ericsson Nikola Tesla, Zagreb
         details: |
-          Understanding Radio Access Network (RAN) concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using Jenkins to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using Java test code for verifying radio software through different stages of confidence levels. Successfully implementing Java code in the Linux VDI environment,committing and following commit via Git. Collaborated with cross-functional teams through Jira, for implementing new featuers on radio platforms or keeping up with feature impacts. Writing configurations for different baseband and radio types, including their specific features and managing configuration capacities in .xml format. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management. Administered and managed Microsoft Teams, a collaboration platform, to facilitate real-time communication, collaboration and teamwork among employees.
+          Understanding Radio Access Network (RAN) concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using Jenkins to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using Java test code for verifying radio software through different stages of confidence levels. Successfully implementing Java code in the Linux VDI environment, committing and following commit via Git. Collaborated with cross-functional teams through Jira, for implementing new features on radio platforms or keeping up with feature impacts. Writing configurations for different baseband and radio types, including their specific features and managing configuration capacities in .xml format. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management. Administered and managed Microsoft Teams, a collaboration platform, to facilitate real-time communication, collaboration and teamwork among employees.
             - Java
             - Linux
             - Jenkins
@@ -114,7 +114,7 @@ certifications:
           credentialurl: www.ericsson.hr
           credentialname: LTE
           details: |
-            fourth generation of mobile telecommunications technology. LTE offers faster data speeds, lower latency, and greater capacity compared to previous generations like 3G.
+            Fourth generation of mobile telecommunications technology. LTE offers faster data speeds, lower latency, and greater capacity compared to previous generations like 3G.
 
         - name: 5G Overview
           start: 2023
@@ -124,7 +124,7 @@ certifications:
           credentialurl: www.ericsson.hr
           credentialname: 5G
           details: |
-           5G, or fifth-generation wireless technology, represents the latest evolution in mobile telecommunications standards. It builds upon the foundation laid by previous generations like 4G LTE and aims to deliver faster speeds, lower latency, increased capacity, and support for a vast array of connected devices beyond smartphones and tablets.
+            Fifth-generation wireless technology, represents the latest evolution in mobile telecommunications standards. It builds upon the foundation laid by previous generations like 4G LTE and aims to deliver faster speeds, lower latency, increased capacity, and support for a vast array of connected devices beyond smartphones and tablets.
 
         - name: RAN architecture
           start: 2023
@@ -146,11 +146,11 @@ projects:
 
       - title: Detection of pits in the ground using deep neural networks
         link: "https://github.com/TomislavBratic/Final-thesis"
-        tagline: "In the final work, it was necessary to create an application that will detect possible pits in the ground based on the analysis of the image taken with a camera from a height of 50-150 cm. The work presented an overview of artificial neural networks and their possibilities. It was necessary to create a database of images with positive examples as well as negative examples. Matlab software package was used for the project to perform neural network learning process. The already developed convolutional networks, GoogleNet and SqueezeNet, were used to develop this project. 286 images of pits in the ground were collected for the database. The entire database is stored in a specific variable that will be divided into a part for training and for validation. Options before training were selected,such as Image Data Augmenter, Rand X/Y Reflection, SGDM and more. After finishing validation tests, networks were compared in accuracy, speed and consistency from given results."
+        tagline: "It was necessary to create an application that will detect possible pits in the ground based on the analysis of the image taken with a camera from a height of 50-150 cm. The work presented an overview of artificial neural networks and their possibilities. It was necessary to create a database of images with positive examples as well as negative examples. Matlab software package was used for the project to perform neural network learning process. The already developed convolutional networks, GoogleNet and SqueezeNet, were used to develop this project. 286 images of pits in the ground were collected for the database. The entire database is stored in a specific variable that will be divided into a part for training and for validation. Options before training were selected, such as Image Data Augmenter, Rand X/Y Reflection, SGDM and more. After finishing validation tests, networks were compared in accuracy, speed and consistency from given results."
 
       - title: PaletaApp
         link: "https://github.com/TomislavBratic/PaletaApp"
-        tagline: "Bulding a social media application using Asp.net Core and Angular. Application offers registration and user login, posting blogs and uploading pictures. Authentication basics, exception handling middleware, Entity Framework relationships, AutoMapper, Angular Material."
+        tagline: "Building a social media application using Asp.net Core and Angular. Application offers registration and user login, posting blogs and uploading pictures. Authentication basics, exception handling middleware, Entity Framework relationships, AutoMapper, Angular Material, JWT token."
 
       - title: Python AI exercises
         link: "https://github.com/TomislavBratic/Python-AI"
@@ -158,7 +158,7 @@ projects:
 
       - title: Archive text analyzer
         link: "https://github.com/TomislavBratic/ArchiveTextAnalyzer"
-        tagline: "Small phyton tool for analyzing positive and negative words (custom selection) and creating a graph of their frequencies through decades. Data is collected from archives around the Europe and processed through Spacey NLP. Pandas datasets and spacey matcher with regular expressions for finding word clusters and words under quotation marks."
+        tagline: "Small Python tool for analyzing positive and negative words (custom selection) and creating a graph of their frequencies through decades. Data is collected from archives around the Europe and processed through Spacey NLP. Pandas datasets and spacey matcher with regular expressions for finding word clusters and words under quotation marks."
 
 
 skills:
