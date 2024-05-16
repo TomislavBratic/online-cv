@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Employee at Ericsson Nikola Tesla, Zagreb. Proficient in software testing methodologies, troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning ASP.NET and Angular to expand skill set and stay updated with emerging technologies.
+      Employee at Ericsson Nikola Tesla, Zagreb. Proficient in software testing methodologies, troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning ASP.NET Core and Angular to expand skill set and stay updated with emerging technologies.
 education:
     title: Education
     info:
@@ -150,7 +150,7 @@ projects:
 
       - title: PaletaApp
         link: "https://github.com/TomislavBratic/PaletaApp"
-        tagline: "Building a social media application using Asp.net Core and Angular. Application offers registration and user login, posting blogs and uploading pictures. Authentication basics, exception handling middleware, Entity Framework relationships, AutoMapper, Angular Material, JWT token."
+        tagline: "Building a social media application using Asp.net Core and Angular. Application offers registration and user login, posting blogs and uploading pictures. Authentication basics, exception handling middleware, Entity Framework relationships, AutoMapper, Angular Material, JWT token, MS SQL Server."
 
       - title: Python AI exercises
         link: "https://github.com/TomislavBratic/Python-AI"
