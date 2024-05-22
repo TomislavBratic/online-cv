@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Employee at Ericsson Nikola Tesla, Zagreb. Proficient in software testing methodologies, troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning ASP.NET Core and Angular to expand skill set and stay updated with emerging technologies.
+      Employee at Ericsson Nikola Tesla, Zagreb. Proficient in software testing methodologies, troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning Vue.js and Laravel to expand skill set and stay updated with emerging technologies.
 education:
     title: Education
     info:
@@ -156,6 +156,10 @@ projects:
         link: "https://github.com/TomislavBratic/Python-AI"
         tagline: "Algorithms and data structures. Agents and environments. Algorithms for informed and uninformed search. Supported learning. Games for two players: minimax and MTCS algorithms. Machine learning. Linear models for regression and classification. First order logic and logical reasoning. Neural networks. A regression model for supported learning. Other forms of learning and application of machine learning for different domains."
 
+      - title: Real Estate website
+        link: 
+        tagline: "Building a website where people can buy and sell real estate. It displays listings of real estate, their prices, and addresses. The user can register to add real estate for sale to the listing. The user can edit, delete, or see offers for their listings. Everyone can view listings, but for sending offers, login and registration are needed. Searching and filtering, Tailwind CSS, Inertia, SQLite."
+
       - title: Archive text analyzer
         link: "https://github.com/TomislavBratic/ArchiveTextAnalyzer"
         tagline: "Small Python tool for analyzing positive and negative words (custom selection) and creating a graph of their frequencies through decades. Data is collected from archives around the Europe and processed through Spacey NLP. Pandas datasets and spacey matcher with regular expressions for finding word clusters and words under quotation marks."
@@ -182,6 +186,12 @@ skills:
 
       - name: Docker
         level: 80%
+
+      - name: Laravel
+        level: 80% 
+
+      - name: Vue.js
+        level: 75%
 
       - name: Angular
         level: 75%
