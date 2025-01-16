@@ -8,35 +8,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Tomislav Bratić
-    tagline: Software Developer
-    avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ticbra1337@gmail.com
-    phone: 098 184 0439
-    timezone: CEST
+    email: example@email.com
+    phone: 012 345 6789
+    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website:  #do not add http://
-    linkedin: Tomislav Bratic
-    xing: 
-    github: TomislavBratic
+    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: alandoe
+    xing: alandoe
+    github: jekyll
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1LJIEP4Szr-oWhNGGJpEqVwo4yt-S-Y5W/view?usp=drive_link
+    mastodon:  # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
       info:
-        - idiom: Croatian
+        - idiom: English
           level: Native
 
-        - idiom: English
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
           level: Professional
 
     interests:
@@ -45,7 +51,7 @@ sidebar:
         - item: Climbing
           link:
 
-        - item: Beekeeping
+        - item: Snowboarding
           link:
 
         - item: Cooking
@@ -54,159 +60,209 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Employee at Ericsson Nikola Tesla, Zagreb. Proficient in software testing methodologies, troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning Vue.js and Laravel to expand skill set and stay updated with emerging technologies.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: mag. ing. in Computer Science
-        university: University Department of Professional Studies
-        time: 2021 - 2023
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
-         Apply modern methods and patterns in solving practical problems in the field of computing. Create a software solution for a complex problem by applying modern technologies, models and an agile approach to software development. Choose an appropriate engineering approach in the realization of set user requirements, starting from acquired knowledge in the field of computing. Analyze algorithmic approaches for solving optimization problems and decision problems. Use appropriate mathematical methods in modeling complex software solutions. Apply appropriate concepts and development frameworks in creating applications. Distinguish the peculiarities of individual computer technologies and environments. Evaluate software and test program code. Assess the place and role of IT in the company's operations, and analyze the functionality of the available business information systems. Develop software based on concepts of distributed technologies respecting the principles of security of software solutions.
-            - Java
-            - Web development (React/Node.js)
-            - Mobile development (Android studio)
-            - Graph Algorithms and AI (Python)
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
-      - degree: bacc. ing. in Computer Science
-        university: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB)
-        time: 2018 - 2021
-        details: |
-           Apply techniques, skills and advanced engineering tools necessary in engineering practice. Maintain computer systems and computer infrastructure. Apply technical knowledge and skills for effective engineering solutions problems independently and as part of a team. Apply acquired programming knowledge in different programming environments and on different target platforms for the realization of own applications. Prepare project documentation and technical reports using modern technologies. Participate in the work of multidisciplinary and international teams.Use literature, databases and other sources of information. Create a business plan with all necessary technological, economic and financial parameters. Make a public oral presentation, prepare a written report and present it in Croatian and English.
-            - Java
-            - C/C++
-            - Linux
 experiences:
     title: Experiences
     info:
-     - role: Full Stack Developer
-        time: 2024 - 2025
-        company: Ericsson Nikola Tesla, Zagreb
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-         At IDE3 IT, responsibilities include developing and maintaining CRM applications, with expertise in both single-tenant and multi-tenant architectures, delivering custom, modern web application solutions tailored to diverse client needs. Utilizing Vue.js, the role involves creating dynamic, user-friendly front-end interfaces, implementing Vue Router and Vuex for advanced routing and state management, and building reusable, modular components to streamline development. Focus is placed on optimizing performance to enhance user experiences through responsive and interactive interfaces.On the back end, expertise in Laravel supports the design and implementation of robust APIs, database structures using Eloquent ORM, and seamless integrations with external services. Contributions include working on SaaS solutions like OutOfOffice, ensuring scalability, reliability, and maintainability throughout the development lifecycle.
-            - Vue.js
-            - Laravel
-            - Lumen
-            - Jira
-            - MySql
-            - Bitbucket
-            - Confluence
-            - MS Teams
-      - role: Software Developer
-        time: 2023 - 2024
-        company: Ericsson Nikola Tesla, Zagreb
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          Understanding Radio Access Network (RAN) concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using Jenkins to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using Java test code for verifying radio software through different stages of confidence levels. Successfully implementing Java code in the Linux VDI environment, committing and following commit via Git. Collaborated with cross-functional teams through Jira, for implementing new features on radio platforms or keeping up with feature impacts. Writing configurations for different baseband and radio types, including their specific features and managing configuration capacities in .xml format. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management. Administered and managed Microsoft Teams, a collaboration platform, to facilitate real-time communication, collaboration and teamwork among employees.
-            - Java
-            - Linux
-            - Jenkins
-            - Jira
-            - Github
-            - Confluence
-            - MS Teams
-      - role: Student Helper
-        time: 2022 - 2023
-        company: Ericsson Nikola Tesla, Split
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
-          Working on a Stockholm Radio platform, writing configuration, understanding the link connection and link rate between baseband and radio hardware. Understanding the User Equipment concept for developing Java tests in that particular environment. Troubleshooting and writing Jira tickets for radio product. Collaborated closely with cross-functional teams to effectively troubleshoot and resolve product issues.
-            - Java
-            - Linux
-            - Jira
-            - Github
-            - Confluence
-            - Ms Teams
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 certifications:
       title: Certifications
       list:
-        - name: LTE overview
-          start: 2023
-          end: 2023
-          organization: Ericsson
-          credentialid: LZU1087020
-          credentialurl: www.ericsson.hr
-          credentialname: LTE
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
           details: |
-            Fourth generation of mobile telecommunications technology. LTE offers faster data speeds, lower latency, and greater capacity compared to previous generations like 3G.
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
-        - name: 5G Overview
-          start: 2023
-          end: 2023
-          organization: Ericsson
-          credentialid: LZU1084181
-          credentialurl: www.ericsson.hr
-          credentialname: 5G
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
           details: |
-            Fifth-generation wireless technology, represents the latest evolution in mobile telecommunications standards. It builds upon the foundation laid by previous generations like 4G LTE and aims to deliver faster speeds, lower latency, increased capacity, and support for a vast array of connected devices beyond smartphones and tablets.
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
-        - name: RAN architecture
-          start: 2023
-          end: 2023
-          organization: Ericsson
-          credentialid: LZU1082505
-          credentialurl: www.ericsson.hr
-          credentialname: RAN
-          details: |
-            RAN (Radio Access Network) architecture refers to the infrastructure that connects mobile devices to the core network and facilitates wireless communication. It encompasses the equipment and protocols responsible for transmitting and receiving radio signals between mobile devices (such as smartphones, tablets, and IoT devices) and the network infrastructure.
 projects:
     title: Projects
     intro: >
-      
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: IoT system for A/V streaming and sensor monitoring of hive activity
-        link: "https://github.com/TomislavBratic/BeeIoT/tree/main"
-        tagline: "This project describes the entire process of creating an IOT system for A/V streaming and sensor monitoring of hive activity. It starts from the preparation and installation of the necessary hardware equipment, the automation and development of the necessary software environment for the microcontroller and the process of creating a web application for streaming and environment monitoring. The result provides a simple, efficient and fast installation of the necessary software on the microcontroller, and a precise and intuitive interface for user interaction."
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Detection of pits in the ground using deep neural networks
-        link: "https://github.com/TomislavBratic/Final-thesis"
-        tagline: "It was necessary to create an application that will detect possible pits in the ground based on the analysis of the image taken with a camera from a height of 50-150 cm. The work presented an overview of artificial neural networks and their possibilities. It was necessary to create a database of images with positive examples as well as negative examples. Matlab software package was used for the project to perform neural network learning process. The already developed convolutional networks, GoogleNet and SqueezeNet, were used to develop this project. 286 images of pits in the ground were collected for the database. The entire database is stored in a specific variable that will be divided into a part for training and for validation. Options before training were selected, such as Image Data Augmenter, Rand X/Y Reflection, SGDM and more. After finishing validation tests, networks were compared in accuracy, speed and consistency from given results."
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: PaletaApp
-        link: "https://github.com/TomislavBratic/PaletaApp"
-        tagline: "Building a social media application using Asp.net Core and Angular. Application offers registration and user login, posting blogs and uploading pictures. Authentication basics, exception handling middleware, Entity Framework relationships, AutoMapper, Angular Material, JWT token, MS SQL Server."
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Python AI exercises
-        link: "https://github.com/TomislavBratic/Python-AI"
-        tagline: "Algorithms and data structures. Agents and environments. Algorithms for informed and uninformed search. Supported learning. Games for two players: minimax and MTCS algorithms. Machine learning. Linear models for regression and classification. First order logic and logical reasoning. Neural networks. A regression model for supported learning. Other forms of learning and application of machine learning for different domains."
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Archive text analyzer
-        link: "https://github.com/TomislavBratic/ArchiveTextAnalyzer"
-        tagline: "Small Python tool for analyzing positive and negative words (custom selection) and creating a graph of their frequencies through decades. Data is collected from archives around the Europe and processed through Spacey NLP. Pandas datasets and spacey matcher with regular expressions for finding word clusters and words under quotation marks."
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java
+      - name: Python & Django
         level: 98%
 
-      - name: Jenkins
+      - name: Javascript & jQuery
         level: 98%
-
-      - name: Python
-        level: 90%        
-
-      - name: Linux & bash
-        level: 90%
-
-      - name: C# and Asp.Net Core
-        level: 80%
-
-      - name: Docker
-        level: 80%
-
-      - name: Laravel
-        level: 80% 
-
-      - name: Vue.js
-        level: 75%
 
       - name: Angular
-        level: 75%
+        level: 98%
 
-      - name: Ansible
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
         level: 60%
 
-      - name: React
-        level: 30%
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
