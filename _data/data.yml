@@ -120,133 +120,94 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: LTE overview
+          start: 2023
+          end: 2023
+          organization: Ericsson
+          credentialid: LZU1087020
+          credentialurl: www.ericsson.hr
+          credentialname: LTE
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Fourth generation of mobile telecommunications technology. LTE offers faster data speeds, lower latency, and greater capacity compared to previous generations like 3G.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: 5G Overview
+          start: 2023
+          end: 2023
+          organization: Ericsson
+          credentialid: LZU1084181
+          credentialurl: www.ericsson.hr
+          credentialname: 5G
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Fifth-generation wireless technology, represents the latest evolution in mobile telecommunications standards. It builds upon the foundation laid by previous generations like 4G LTE and aims to deliver faster speeds, lower latency, increased capacity, and support for a vast array of connected devices beyond smartphones and tablets.
 
+        - name: RAN architecture
+          start: 2023
+          end: 2023
+          organization: Ericsson
+          credentialid: LZU1082505
+          credentialurl: www.ericsson.hr
+          credentialname: RAN
+          details: |
+            RAN (Radio Access Network) architecture refers to the infrastructure that connects mobile devices to the core network and facilitates wireless communication. It encompasses the equipment and protocols responsible for transmitting and receiving radio signals between mobile devices (such as smartphones, tablets, and IoT devices) and the network infrastructure.
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: IoT system for A/V streaming and sensor monitoring of hive activity
+        link: "https://github.com/TomislavBratic/BeeIoT/tree/main"
+        tagline: "This project describes the entire process of creating an IOT system for A/V streaming and sensor monitoring of hive activity. It starts from the preparation and installation of the necessary hardware equipment, the automation and development of the necessary software environment for the microcontroller and the process of creating a web application for streaming and environment monitoring. The result provides a simple, efficient and fast installation of the necessary software on the microcontroller, and a precise and intuitive interface for user interaction."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Detection of pits in the ground using deep neural networks
+        link: "https://github.com/TomislavBratic/Final-thesis"
+        tagline: "It was necessary to create an application that will detect possible pits in the ground based on the analysis of the image taken with a camera from a height of 50-150 cm. The work presented an overview of artificial neural networks and their possibilities. It was necessary to create a database of images with positive examples as well as negative examples. Matlab software package was used for the project to perform neural network learning process. The already developed convolutional networks, GoogleNet and SqueezeNet, were used to develop this project. 286 images of pits in the ground were collected for the database. The entire database is stored in a specific variable that will be divided into a part for training and for validation. Options before training were selected, such as Image Data Augmenter, Rand X/Y Reflection, SGDM and more. After finishing validation tests, networks were compared in accuracy, speed and consistency from given results."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: PaletaApp
+        link: "https://github.com/TomislavBratic/PaletaApp"
+        tagline: "Building a social media application using Asp.net Core and Angular. Application offers registration and user login, posting blogs and uploading pictures. Authentication basics, exception handling middleware, Entity Framework relationships, AutoMapper, Angular Material, JWT token, MS SQL Server."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Python AI exercises
+        link: "https://github.com/TomislavBratic/Python-AI"
+        tagline: "Algorithms and data structures. Agents and environments. Algorithms for informed and uninformed search. Supported learning. Games for two players: minimax and MTCS algorithms. Machine learning. Linear models for regression and classification. First order logic and logical reasoning. Neural networks. A regression model for supported learning. Other forms of learning and application of machine learning for different domains."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Archive text analyzer
+        link: "https://github.com/TomislavBratic/ArchiveTextAnalyzer"
+        tagline: "Small Python tool for analyzing positive and negative words (custom selection) and creating a graph of their frequencies through decades. Data is collected from archives around the Europe and processed through Spacey NLP. Pandas datasets and spacey matcher with regular expressions for finding word clusters and words under quotation marks."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Jenkins
         level: 98%
+
+      - name: Python
+        level: 90%        
+
+      - name: Linux & bash
+        level: 90%
+
+      - name: C# and Asp.Net Core
+        level: 80%
+
+      - name: Docker
+        level: 80%
+
+      - name: Laravel
+        level: 80% 
+
+      - name: Vue.js
+        level: 75%
 
       - name: Angular
-        level: 98%
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Ansible
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: React
+        level: 30%
