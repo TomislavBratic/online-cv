@@ -105,17 +105,17 @@ experiences:
             - Github
             - Confluence
             - MS Teams
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Student Helper
+        time: 2022 - 2023
+        company: Ericsson Nikola Tesla, Split
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+           Working on a Stockholm Radio platform, writing configuration, understanding the link connection and link rate between baseband and radio hardware. Understanding the User Equipment concept for developing Java tests in that particular environment. Troubleshooting and writing Jira tickets for radio product. Collaborated closely with cross-functional teams to effectively troubleshoot and resolve product issues.
+            - Java
+            - Linux
+            - Jira
+            - Github
+            - Confluence
+            - MS Teams
 
 certifications:
       title: Certifications
