@@ -80,19 +80,11 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Full Stack Developer
+        time: 2024 - Present
+        company: IDE3 IT
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          At IDE3 IT, responsibilities include developing and maintaining CRM applications, with expertise in both single-tenant and multi-tenant architectures, delivering custom, modern web application solutions tailored to diverse client needs. Utilizing Vue.js, the role involves creating dynamic, user-friendly front-end interfaces, implementing Vue Router and Vuex for advanced routing and state management, and building reusable, modular components to streamline development. Focus is placed on optimizing performance to enhance user experiences through responsive and interactive interfaces.On the back end, expertise in Laravel supports the design and implementation of robust APIs, database structures using Eloquent ORM, and seamless integrations with external services. Contributions include working on SaaS solutions like OutOfOffice, ensuring scalability, reliability, and maintainability throughout the development lifecycle.
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
