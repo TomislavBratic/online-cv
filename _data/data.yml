@@ -8,41 +8,35 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Tomislav Bratić
+    tagline: Software Developer
+    avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: ticbra1337@gmail.com
+    phone: 098 184 0439
+    timezone: CEST
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    website:  #do not add http://
+    linkedin: Tomislav Bratic
+    xing: 
+    github: TomislavBratic
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: https://drive.google.com/file/d/1LJIEP4Szr-oWhNGGJpEqVwo4yt-S-Y5W/view?usp=drive_link
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Croatian
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -51,7 +45,7 @@ sidebar:
         - item: Climbing
           link:
 
-        - item: Snowboarding
+        - item: Beekeeping
           link:
 
         - item: Cooking
@@ -60,37 +54,28 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Employee at Ericsson Nikola Tesla, Zagreb. Proficient in software testing methodologies, troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning Vue.js and Laravel to expand skill set and stay updated with emerging technologies.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: mag. ing. in Computer Science
+        university: University Department of Professional Studies
+        time: 2021 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+         Apply modern methods and patterns in solving practical problems in the field of computing. Create a software solution for a complex problem by applying modern technologies, models and an agile approach to software development. Choose an appropriate engineering approach in the realization of set user requirements, starting from acquired knowledge in the field of computing. Analyze algorithmic approaches for solving optimization problems and decision problems. Use appropriate mathematical methods in modeling complex software solutions. Apply appropriate concepts and development frameworks in creating applications. Distinguish the peculiarities of individual computer technologies and environments. Evaluate software and test program code. Assess the place and role of IT in the company's operations, and analyze the functionality of the available business information systems. Develop software based on concepts of distributed technologies respecting the principles of security of software solutions.
+            - Java
+            - Web development (React/Node.js)
+            - Mobile development (Android studio)
+            - Graph Algorithms and AI (Python)
+
+      - degree: bacc. ing. in Computer Science
+        university: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB)
+        time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+           Apply techniques, skills and advanced engineering tools necessary in engineering practice. Maintain computer systems and computer infrastructure. Apply technical knowledge and skills for effective engineering solutions problems independently and as part of a team. Apply acquired programming knowledge in different programming environments and on different target platforms for the realization of own applications. Prepare project documentation and technical reports using modern technologies. Participate in the work of multidisciplinary and international teams.Use literature, databases and other sources of information. Create a business plan with all necessary technological, economic and financial parameters. Make a public oral presentation, prepare a written report and present it in Croatian and English.
+            - Java
+            - C/C++
+            - Linux
 
 experiences:
     title: Experiences
