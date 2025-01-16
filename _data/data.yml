@@ -82,7 +82,7 @@ experiences:
     info:
       - role: Full Stack Developer
         time: 2024 - Present
-        company: IDE3 IT
+        company: IDE3 IT, Zagreb
         details: |
           At IDE3 IT, responsibilities include developing and maintaining CRM applications, with expertise in both single-tenant and multi-tenant architectures, delivering custom, modern web application solutions tailored to diverse client needs. Utilizing Vue.js, the role involves creating dynamic, user-friendly front-end interfaces, implementing Vue Router for advanced routing and state management, and building reusable, modular components to streamline development. Focus is placed on optimizing performance to enhance user experiences through responsive and interactive interfaces.On the backend, expertise in Laravel supports the design and implementation of robust APIs, database structures using Eloquent ORM, and seamless integrations with external services. Contributions include working on SaaS solutions like OutOfOffice, ensuring scalability, reliability, and maintainability throughout the development lifecycle.
             - Vue.js
@@ -93,17 +93,18 @@ experiences:
             - Bitbucket
             - Confluence
             - Ms Teams
-      - role: 
-        time: 2014 - 2015
-        company: Google, London
+      - role: Software Developer
+        time: 2023 - 2024
+        company: Ericsson Nikola Tesla, Zagreb
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Understanding Radio Access Network (RAN) concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using Jenkins to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using Java test code for verifying radio software through different stages of confidence levels. Successfully implementing Java code in the Linux VDI environment, committing and following commit via Git. Collaborated with cross-functional teams through Jira, for implementing new features on radio platforms or keeping up with feature impacts. Writing configurations for different baseband and radio types, including their specific features and managing configuration capacities in .xml format. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management. Administered and managed Microsoft Teams, a collaboration platform, to facilitate real-time communication, collaboration and teamwork among employees.
+            - Java
+            - Linux
+            - Jenkins
+            - Jira
+            - Github
+            - Confluence
+            - MS Teams
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
