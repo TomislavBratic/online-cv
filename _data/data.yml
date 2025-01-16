@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Employee at Ericsson Nikola Tesla, Zagreb. Proficient in software testing methodologies, troubleshooting complex issues and writing efficient Java code. Equipped with a comprehensive understanding of Continuous Integration/Continuous Deployment (CI/CD) processes and experienced in using Jenkins for automation. Familiar with collaboration tools like Confluence for efficient documentation and Linux environments for development and deployment. In leisure time, actively engaged in learning Vue.js and Laravel to expand skill set and stay updated with emerging technologies.
+     Employee at IDE3 IT, proficient in Vue.js, specializing in programming and developing CRM systems, as well as creating dynamic and user-friendly interfaces. Skilled in Laravel for building robust backend systems. Experienced in using collaboration tools like Confluence for efficient documentation and working in Linux environments for development and deployment. Previously worked at Ericsson Nikola Tesla, Zagreb, where I gained extensive experience in Java programming, CI/CD processes, and Jenkins automation. I also developed strong troubleshooting skills, solving complex software issues in a fast-paced environment.
 education:
     title: Education
     info:
@@ -189,9 +189,12 @@ skills:
         level: 90%        
 
       - name: Linux & bash
-        level: 90%
+        level: 85%
 
       - name: MySQL
+        level: 85%
+
+      - name: Java
         level: 80%
 
       - name: Docker
