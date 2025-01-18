@@ -169,8 +169,12 @@ projects:
         tagline: "HRM SaaS system for managing, approving, and tracking employee annual leave, sick leave, and days off from the office or remotely. It allows employees to submit requests for leave, sick leave, and days off themselves, and enables approval or rejection of requests in a simple manner, with the option to leave a comment. Automatic notifications are sent to all team members about employees who are on leave, sick leave, or days off. Groups can be defined, and email addresses can be set. The system enables planning in advance and in one place, providing an overview of team availability and statistics for a day, week, or month. It also tracks upcoming holidays and public holidays."
 
       - title: Uspinjaca
+        link: "https://www.emporia-nekretnine.com"
+        tagline: "Web application specialized for connecting job seekers with employers, particularly in the cruise ship, river ship, and luxury hospitality industries. Job seekers can easily register and create their own applications, which can be submitted to job positions posted by recruiters. Recruiters create job postings for various roles and expect job seekers to apply."
+
+      - title: Emporia
         link: "https://uspinjaca.hr/"
-        tagline: "Web application specialized for connecting job seekers with employers, particularly in the cruise ship, river ship, and luxury hospitality industries. : Job seekers can easily register and create their own applications, which can be submitted to job positions posted by recruiters. Recruiters create job postings for various roles and expect job seekers to apply."
+        tagline: "A web application for real estate allows users to browse, search, and filter property listings by location, price, and features, providing detailed descriptions, photos, and maps for each property. It enables property owners or agents to list, manage, and update their properties, while buyers or renters can contact agents, schedule viewings, or submit inquiries directly through the platform."
 
       - title: Python AI exercises
         link: "https://github.com/TomislavBratic/Python-AI"
