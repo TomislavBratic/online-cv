@@ -99,7 +99,7 @@ experiences:
         time: 2023 - 2024
         company: Ericsson Nikola Tesla, Zagreb
         details: |
-          Understanding Radio Access Network (RAN) concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using Jenkins to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using Java test code for verifying radio software through different stages of confidence levels. Successfully implementing Java code in the Linux VDI environment, committing and following commit via Git. Collaborated with cross-functional teams through Jira, for implementing new features on radio platforms or keeping up with feature impacts. Writing configurations for different baseband and radio types, including their specific features and managing configuration capacities in .xml format. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management. Administered and managed Microsoft Teams, a collaboration platform, to facilitate real-time communication, collaboration and teamwork among employees.
+          Understanding **Radio Access Network (RAN)** concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using **Jenkins** to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using **Java** test code for verifying radio software through different stages of confidence levels. Collaborated with cross-functional teams through **Jira**, for implementing new features on radio platforms or keeping up with feature impacts. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management.
             - **Java**
             - **Linux**
             - **Jenkins**
@@ -111,7 +111,7 @@ experiences:
         time: 2022 - 2023
         company: Ericsson Nikola Tesla, Split
         details: |
-           Working on a Stockholm Radio platform, writing configuration, understanding the link connection and link rate between baseband and radio hardware. Understanding the User Equipment concept for developing Java tests in that particular environment. Troubleshooting and writing Jira tickets for radio product. Collaborated closely with cross-functional teams to effectively troubleshoot and resolve product issues.
+           Working on a Stockholm Radio platform, writing configuration, understanding the link connection and link rate between baseband and radio hardware. Understanding the User Equipment concept for developing **Java** tests in that particular environment. Troubleshooting and writing Jira tickets for radio product. Collaborated closely with cross-functional teams to effectively troubleshoot and resolve product issues.
             - **Java**
             - **Linux**
             - **Jira**
@@ -177,7 +177,7 @@ projects:
         tagline: "A web application for real estate allows users to browse, search, and filter property listings by location, price, and features, providing detailed descriptions, photos, and maps for each property."
 
       - title: Static webs
-        link: "https://uspinjaca.hr/"
+        link:
         tagline: "Managing and maintaining static websites integrated with a CMS that dynamically provides their content."
         
       - title: Python AI exercises
