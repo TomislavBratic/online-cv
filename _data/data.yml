@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Employee at IDE3 IT. Proficient in **Vue.js**, specializing in programming and developing CRM systems, as well as creating dynamic and user-friendly interfaces. Skilled in Laravel for building robust backend systems. Experienced in using collaboration tools like Confluence for efficient documentation and working in Linux environments for development and deployment. Previously worked at Ericsson Nikola Tesla, Zagreb, where I gained extensive experience in Java programming, CI/CD processes, and Jenkins automation. I also developed strong troubleshooting skills, solving complex software issues in a fast-paced environment.
+     Employee at **IDE3 IT**. Proficient in **Vue.js**, specializing in programming and developing **CRM systems**, as well as creating dynamic and user-friendly interfaces. Skilled in **Laravel** for building robust backend systems. Experienced in using collaboration tools like **Confluence** for efficient documentation and working in **Linux environments** for development and deployment. Previously worked at **Ericsson Nikola Tesla, Zagreb**, where I gained extensive experience in **Java** programming, **CI/CD processes**, and **Jenkins** automation. I also developed strong troubleshooting skills, solving complex software issues in a fast-paced environment.
 education:
     title: Education
     info:
@@ -63,19 +63,19 @@ education:
         time: 2021 - 2023
         details: |
          Apply modern methods and patterns in solving practical problems in the field of computing. Create a software solution for a complex problem by applying modern technologies, models and an agile approach to software development. Choose an appropriate engineering approach in the realization of set user requirements, starting from acquired knowledge in the field of computing. Analyze algorithmic approaches for solving optimization problems and decision problems. Use appropriate mathematical methods in modeling complex software solutions. Apply appropriate concepts and development frameworks in creating applications. Distinguish the peculiarities of individual computer technologies and environments. Evaluate software and test program code. Assess the place and role of IT in the company's operations, and analyze the functionality of the available business information systems. Develop software based on concepts of distributed technologies respecting the principles of security of software solutions.
-            - Java
-            - Web development (React/Node.js)
-            - Mobile development (Android studio)
-            - Graph Algorithms and AI (Python)
+            - **Java**
+            - **Web development (React/Node.js)**
+            - **Mobile development (Android studio)**
+            - **Graph Algorithms and AI (Python)**
 
       - degree: bacc. ing. in Computer Science
         university: Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB)
         time: 2018 - 2021
         details: |
            Apply techniques, skills and advanced engineering tools necessary in engineering practice. Maintain computer systems and computer infrastructure. Apply technical knowledge and skills for effective engineering solutions problems independently and as part of a team. Apply acquired programming knowledge in different programming environments and on different target platforms for the realization of own applications. Prepare project documentation and technical reports using modern technologies. Participate in the work of multidisciplinary and international teams.Use literature, databases and other sources of information. Create a business plan with all necessary technological, economic and financial parameters. Make a public oral presentation, prepare a written report and present it in Croatian and English.
-            - Java
-            - C/C++
-            - Linux
+            - **Java**
+            - **C/C++**
+            - **Linux**
 
 experiences:
     title: Experiences
@@ -84,17 +84,17 @@ experiences:
         time: 2024 - Present
         company: IDE3 IT, Zagreb
         details: |
-          At IDE3 IT, responsibilities include developing and maintaining CRM applications, with expertise in both single-tenant and multi-tenant architectures, delivering custom, modern web application solutions tailored to diverse client needs. Utilizing Vue.js, the role involves creating dynamic, user-friendly front-end interfaces, implementing Vue Router for advanced routing and state management, and building reusable, modular components to streamline development. Focus is placed on optimizing performance to enhance user experiences through responsive and interactive interfaces.On the backend, expertise in Laravel supports the design and implementation of robust APIs, database structures using Eloquent ORM, and seamless integrations with external services. Contributions include working on HRM SaaS solutions like Out of Office, ensuring scalability, reliability, and maintainability throughout the development lifecycle.
-            - Vue.js
-            - JQuery
-            - PHP
-            - Laravel
-            - Lumen
-            - Jira
-            - MySQL
-            - Bitbucket
-            - Confluence
-            - Ms Teams
+          At IDE3 IT, responsibilities include developing and maintaining **CRM applications**, with expertise in both **single-tenant and multi-tenant architectures**, delivering custom, modern web application solutions tailored to diverse client needs. Utilizing **Vue.js**, the role involves creating dynamic, user-friendly front-end interfaces, implementing **Vue Router** and **Vuex** for advanced routing and state management, and building reusable, modular components to streamline development. Focus is placed on optimizing performance to enhance user experiences through responsive and interactive interfaces.On the backend, expertise in **Laravel** supports the design and implementation of robust APIs, database structures using **Eloquent ORM**, and seamless integrations with external services. Contributions include working on **HRM SaaS solutions** like **Out of Office**, ensuring scalability, reliability, and maintainability throughout the development lifecycle.
+            - **Vue.js**
+            - **JQuery**
+            - **PHP**
+            - **Laravel**
+            - **Lumen**
+            - **Jira**
+            - **MySQL**
+            - **Bitbucket**
+            - **Confluence**
+            - **Ms Teams**
       - role: Software Developer
         time: 2023 - 2024
         company: Ericsson Nikola Tesla, Zagreb
