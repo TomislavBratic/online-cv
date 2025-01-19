@@ -42,7 +42,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hiking
           link:
 
         - item: Beekeeping
@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Employee at IDE3 IT. Proficient in _Vue.js_, specializing in programming and developing CRM systems, as well as creating dynamic and user-friendly interfaces. Skilled in Laravel for building robust backend systems. Experienced in using collaboration tools like Confluence for efficient documentation and working in Linux environments for development and deployment. Previously worked at Ericsson Nikola Tesla, Zagreb, where I gained extensive experience in Java programming, CI/CD processes, and Jenkins automation. I also developed strong troubleshooting skills, solving complex software issues in a fast-paced environment.
+     Employee at IDE3 IT. Proficient in **Vue.js**, specializing in programming and developing CRM systems, as well as creating dynamic and user-friendly interfaces. Skilled in Laravel for building robust backend systems. Experienced in using collaboration tools like Confluence for efficient documentation and working in Linux environments for development and deployment. Previously worked at Ericsson Nikola Tesla, Zagreb, where I gained extensive experience in Java programming, CI/CD processes, and Jenkins automation. I also developed strong troubleshooting skills, solving complex software issues in a fast-paced environment.
 education:
     title: Education
     info:
@@ -176,6 +176,10 @@ projects:
         link: "https://uspinjaca.hr/"
         tagline: "A web application for real estate allows users to browse, search, and filter property listings by location, price, and features, providing detailed descriptions, photos, and maps for each property. It enables property owners or agents to list, manage, and update their properties, while buyers or renters can contact agents, schedule viewings, or submit inquiries directly through the platform."
 
+      - title: Static webs
+        link: "https://uspinjaca.hr/"
+        tagline: "A web application for real estate allows users to browse, search, and filter property listings by location, price, and features, providing detailed descriptions, photos, and maps for each property. It enables property owners or agents to list, manage, and update their properties, while buyers or renters can contact agents, schedule viewings, or submit inquiries directly through the platform."
+        
       - title: Python AI exercises
         link: "https://github.com/TomislavBratic/Python-AI"
         tagline: "Algorithms and data structures. Agents and environments. Algorithms for informed and uninformed search. Supported learning. Games for two players: minimax and MTCS algorithms. Machine learning. Linear models for regression and classification. First order logic and logical reasoning. Neural networks. A regression model for supported learning. Other forms of learning and application of machine learning for different domains."
