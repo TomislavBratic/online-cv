@@ -178,14 +178,6 @@ projects:
       - title: Static webs
         link:
         tagline: "Managing and maintaining static websites integrated with a CMS that dynamically provides their content."
-        
-      - title: Python AI exercises
-        link: "https://github.com/TomislavBratic/Python-AI"
-        tagline: "Algorithms and data structures. Agents and environments. Algorithms for informed and uninformed search. Supported learning. Games for two players: minimax and MTCS algorithms. Machine learning. Linear models for regression and classification. First order logic and logical reasoning. Neural networks. A regression model for supported learning. Other forms of learning and application of machine learning for different domains."
-
-      - title: Archive text analyzer
-        link: "https://github.com/TomislavBratic/ArchiveTextAnalyzer"
-        tagline: "Small Python tool for analyzing positive and negative words (custom selection) and creating a graph of their frequencies through decades."
 
 
 skills:
@@ -212,9 +204,6 @@ skills:
 
       - name: Docker
         level: 100%
-
-      - name: Phyton
-        level: 100% 
 
       - name: React
         level: 100%
