@@ -159,10 +159,6 @@ projects:
         link: "https://github.com/TomislavBratic/BeeIoT/tree/main"
         tagline: "This project develops an IoT system for A/V streaming and hive activity monitoring, combining hardware setup, microcontroller software automation, and a web application, resulting in efficient installation and an intuitive user interface."
 
-      - title: Detection of pits in the ground using deep neural networks
-        link: "https://github.com/TomislavBratic/Final-thesis"
-        tagline: "The project involved developing an application to detect ground pits through image analysis using a camera, utilizing artificial neural networks. A database of positive and negative image examples was created, and the neural network training was conducted using the MATLAB software package."
-
       - title: Out of Office
         link: "https://out-of-office.app/"
         tagline: "HRM SaaS system for managing, approving, and tracking employee annual leave, sick leave, and days off from the office or remotely."
@@ -179,7 +175,7 @@ projects:
         link:
         tagline: "Managing and maintaining static websites integrated with a CMS that dynamically provides their content."
         
-      - title: Python AI exercises
+      - title: Python AI
         link: "https://github.com/TomislavBratic/Python-AI"
         tagline: "Algorithms and data structures. Agents and environments. Algorithms for informed and uninformed search. Supported learning. Games for two players: minimax and MTCS algorithms. Machine learning. Linear models for regression and classification. First order logic and logical reasoning. Neural networks. A regression model for supported learning. Other forms of learning and application of machine learning for different domains."
 
@@ -216,7 +212,7 @@ skills:
       - name: Phyton
         level: 100% 
 
-      - name: React
+      - name: Ansible
         level: 100%
 
       - name: JQuery
