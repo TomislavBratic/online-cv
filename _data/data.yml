@@ -200,9 +200,6 @@ skills:
       - name: Docker
         level: 100%
 
-      - name: Phyton
-        level: 100% 
-
       - name: Ansible
         level: 100%
 
