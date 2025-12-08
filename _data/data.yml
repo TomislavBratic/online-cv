@@ -79,23 +79,8 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Full Stack Developer
-        time: 2024 - Present
-        company: IDE3 IT, Zagreb
-        details: |
-          At IDE3 IT, responsibilities include developing and maintaining **CRM applications**, with expertise in both **single-tenant and multi-tenant architectures**, delivering custom, modern web application solutions tailored to diverse client needs. Utilizing **Vue.js**, the role involves creating dynamic, user-friendly front-end interfaces, implementing **Vue Router** and **Vuex** for advanced routing and state management, and building reusable, modular components to streamline development. Focus is placed on optimizing performance to enhance user experiences through responsive and interactive interfaces.On the backend, expertise in **Laravel** supports the design and implementation of robust APIs, database structures using **Eloquent ORM**, and seamless integrations with external services. Contributions include working on **HRM SaaS solutions** like **Out of Office**, ensuring scalability, reliability, and maintainability throughout the development lifecycle.
-            - **Vue.js**
-            - **JQuery**
-            - **PHP**
-            - **Laravel**
-            - **Lumen**
-            - **Jira**
-            - **MySQL**
-            - **Bitbucket**
-            - **Confluence**
-            - **Ms Teams**
       - role: Software Developer
-        time: 2023 - 2024
+        time: 2023 - 2024, 2024 - Present
         company: Ericsson Nikola Tesla, Zagreb
         details: |
           Understanding **Radio Access Network (RAN)** concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using **Jenkins** to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using **Java** test code for verifying radio software through different stages of confidence levels. Collaborated with cross-functional teams through **Jira**, for implementing new features on radio platforms or keeping up with feature impacts. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management.
@@ -106,6 +91,20 @@ experiences:
             - **Github**
             - **Confluence**
             - **MS Teams**
+      - role: Full Stack Developer
+        time: 2024 - 2025
+        company: IDE3 IT, Zagreb
+        details: |
+          At IDE3 IT, responsibilities include developing and maintaining **CRM applications**, with expertise in both **single-tenant and multi-tenant architectures**, delivering custom, modern web application solutions tailored to diverse client needs. Utilizing **Vue.js**, the role involves creating dynamic, user-friendly front-end interfaces, implementing **Vue Router** and **Vuex** for advanced routing and state management, and building reusable, modular components to streamline development. Focus is placed on optimizing performance to enhance user experiences through responsive and interactive interfaces.On the backend, expertise in **Laravel** supports the design and implementation of robust APIs, database structures using **Eloquent ORM**, and seamless integrations with external services. Contributions include working on **HRM SaaS solutions** like **Out of Office**, ensuring scalability, reliability, and maintainability throughout the development lifecycle.
+            - **Vue.js**
+            - **JQuery**
+            - **PHP**
+            - **Laravel**
+            - **Jira**
+            - **MySQL**
+            - **Bitbucket**
+            - **Confluence**
+            - **Ms Teams**
       - role: Student Helper
         time: 2022 - 2023
         company: Ericsson Nikola Tesla, Split
