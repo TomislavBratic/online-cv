@@ -53,8 +53,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Employee at **IDE3 IT**. Proficient in **Vue.js**, specializing in programming and developing **CRM systems**, as well as creating dynamic and user-friendly interfaces. Skilled in **Laravel** for building robust backend systems. Experienced in using collaboration tools like **Confluence** for efficient documentation and working in **Linux environments** for development and deployment. Previously worked at **Ericsson Nikola Tesla, Zagreb**, where I gained extensive experience in **Java** programming, **CI/CD processes**, and **Jenkins** automation. I also developed strong troubleshooting skills, solving complex software issues in a fast-paced environment. Additionally, skilled in **Python** for various programming and development tasks.
-education:
+      Employee at **Ericsson Nikola Tesla, Zagreb**, where I work in **Linux environments** and have gained extensive experience in **Java**, **CI/CD processes**, and **Jenkins** automation. I developed strong troubleshooting skills, solving complex software issues in a fast-paced environment. Previously worked at **IDE3 IT**, proficient in **Vue.js**, specializing in programming and developing **CRM systems**, as well as creating dynamic and user-friendly interfaces. Skilled in **Laravel** for building robust backend systems, and experienced in using collaboration tools like **Confluence**. In my free time, I work with **React.js** and **Spring Boot**.
+
     title: Education
     info:
       - degree: mag. ing. in Computer Science
@@ -170,10 +170,6 @@ projects:
         link: "https://uspinjaca.hr/"
         tagline: "A web application for real estate allows users to browse, search, and filter property listings by location, price, and features, providing detailed descriptions, photos, and maps for each property."
 
-      - title: Static webs
-        link:
-        tagline: "Managing and maintaining static websites integrated with a CMS that dynamically provides their content."
-        
       - title: Python AI
         link: "https://github.com/TomislavBratic/Python-AI"
         tagline: "Algorithms and data structures. Agents and environments. Algorithms for informed and uninformed search. Supported learning. Games for two players: minimax and MTCS algorithms. Machine learning. Linear models for regression and classification. First order logic and logical reasoning. Neural networks. A regression model for supported learning. Other forms of learning and application of machine learning for different domains."
@@ -187,32 +183,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Vue.js
-        level: 100%
-
-      - name: Laravel
-        level: 100%
-
-      - name: Lumen
-        level: 100%        
-
-      - name: Linux & bash
-        level: 100%
-
-      - name: MySQL
-        level: 100%
-
       - name: Java
         level: 100%
 
-      - name: Docker
+      - name: Spring
         level: 100%
+
+      - name: React.js
+        level: 90%
+
+      - name: Linux & bash
+        level: 90%
+
+      - name: Docker
+        level: 85%
+
+      - name: PostgreSQL
+        level: 85%
 
       - name: Phyton
-        level: 100% 
+        level: 80%
 
-      - name: Ansible
-        level: 100%
+      - name: Vue.js
+        level: 75%
 
-      - name: JQuery
-        level: 100%
+      - name: Laravel
+        level: 75%
+
+      - name: MySQL
+        level: 70%
