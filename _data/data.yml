@@ -80,7 +80,7 @@ experiences:
     title: Experiences
     info:
       - role: Software Developer
-        time: 2023 - 2024, 2024 - Present
+        time: 2023 - 2024, 2025 - Present
         company: Ericsson Nikola Tesla, Zagreb
         details: |
           Understanding **Radio Access Network (RAN)** concepts and way of working (WOW). Understanding and monitoring revisions of radio software. Using **Jenkins** to automate various stages of the software development lifecycle, including building, testing, and deploying radio software product. Using **Java** test code for verifying radio software through different stages of confidence levels. Collaborated with cross-functional teams through **Jira**, for implementing new features on radio platforms or keeping up with feature impacts. Administered and managed Confluence, a collaboration and documentation platform, to facilitate team collaboration, knowledge sharing, and content management.
